@@ -1,0 +1,6 @@
+title: Lisa Kim
+description: "Neuroscience PhD Candidate"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
