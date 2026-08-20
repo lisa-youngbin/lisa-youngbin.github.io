@@ -2,7 +2,7 @@
 layout: home
 ---
 
-![Profile Picture](IMF_7148.HEIC){: style="width: 200px; border-radius: 50%;"}
+![Profile Picture](Profile.HEIC){: style="width: 200px; border-radius: 50%;"}
 
 **Neuroscience PhD Candidate**  
 Awatramani Lab | Department of Neurology, Feinberg School of Medicine | Northwestern University  
