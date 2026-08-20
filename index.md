@@ -27,5 +27,3 @@ My path in molecular and cellular neuroscience includes prior work investigating
 
 ### Contact
 [Email](mailto:lisa.kim@northwestern.edu) • [Google Scholar](https://scholar.google.com/citations?user=zwuNhPsAAAAJ&hl=en) • [ORCID](https://orcid.org/0009-0008-6749-198X) • [LinkedIn](https://linkedin.com/in/lisa-kim-35507085) 
-
-<meta name="google-site-verification" content="MZB2Z8UgfASX2bMNbDXUkexPW0N17_QTgudswaW2zMc" />
