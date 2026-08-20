@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Lisa Kim
 ---
 
 ![Profile Picture](IMF_7148.HEIC){: style="width: 200px; border-radius: 50%;"}
