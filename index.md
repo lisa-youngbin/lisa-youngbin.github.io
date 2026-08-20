@@ -1,10 +1,8 @@
 
-![Profile Picture](Profile.jpg){: style="width: 200px; border-radius: 50%;"}
+<img src="/Profile.jpg" alt="Profile Picture" style="width: 200px; border-radius: 50%;">
 
 **Neuroscience PhD Candidate**  
 Awatramani Lab | Department of Neurology, Feinberg School of Medicine | Northwestern University  
-
-[Google Scholar](https://scholar.google.com/citations?user=zwuNhPsAAAAJ&hl=en) • [ORCID](https://orcid.org/0009-0008-6749-198X) • [Email](mailto:lisa.kim@northwestern.edu) • [LinkedIn](https://linkedin.com/in/lisa-kim-35507085)
 
 ## About Me
 How are subtype-specific dopaminergic circuits precisely formed?
@@ -18,4 +16,5 @@ My path in molecular and cellular neuroscience includes prior work investigating
 * Defining the vulnerability of mesocortical dopamine neurons in parkinsonian cognitive decline. (Mechanisms of Aging & Dementia T32 fellowship)
 * Molecular mechanisms underlying subtype-specific dopaminergic circuit assembly in the developing brain.
 
+[Google Scholar](https://scholar.google.com/citations?user=zwuNhPsAAAAJ&hl=en) • [ORCID](https://orcid.org/0009-0008-6749-198X) • [Email](mailto:lisa.kim@northwestern.edu) • [LinkedIn](https://linkedin.com/in/lisa-kim-35507085)
   
