@@ -22,4 +22,4 @@ My path in molecular and cellular neuroscience includes prior work investigating
 * Molecular mechanisms underlying subtype-specific dopaminergic circuit assembly in the developing brain.
 
 ### Contact
-[Google Scholar](https://scholar.google.com/citations?user=zwuNhPsAAAAJ&hl=en) • [ORCID](https://orcid.org/0009-0008-6749-198X) • [Email](mailto:lisa.kim@northwestern.edu) • [LinkedIn](https://linkedin.com/in/lisa-kim-35507085) 
+[Email](mailto:lisa.kim@northwestern.edu) • [Google Scholar](https://scholar.google.com/citations?user=zwuNhPsAAAAJ&hl=en) • [ORCID](https://orcid.org/0009-0008-6749-198X) • [LinkedIn](https://linkedin.com/in/lisa-kim-35507085) 
