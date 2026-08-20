@@ -8,7 +8,7 @@ title: Welcome
 **Neuroscience PhD Candidate**  
 Awatramani Lab | Department of Neurology, Feinberg School of Medicine | Northwestern University  
 
-[Google Scholar](https://scholar.google.com/citations?user=zwuNhPsAAAAJ&hl=en) • [ORCID](https://orcid.org/0009-0008-6749-198X) • [Email](mailto:lisa.kim@northwestern.edu) • [LinkedIn](https://linkedin.com/in/lisa-kim-35507085).
+[Google Scholar](https://scholar.google.com/citations?user=zwuNhPsAAAAJ&hl=en) • [ORCID](https://orcid.org/0009-0008-6749-198X) • [Email](mailto:lisa.kim@northwestern.edu) • [LinkedIn](https://linkedin.com/in/lisa-kim-35507085)
 
 ---
 # About Me
