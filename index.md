@@ -21,8 +21,8 @@ As a PhD candidate in [NUIN](https://www.nuin.northwestern.edu/index.html) (advi
 My path in neuroscience includes prior work investigating tau-induced synaptic impairments at Columbia University as an undergraduate researcher (with [Dr. Ottavio Arancio](https://www.pathology.columbia.edu/profile/ottavio-arancio-md)), and dopaminergic synapse formation at Boston Children's Hospital / Harvard Medical School as a research assistant (with [Dr. Hisashi Umemori](https://brain.harvard.edu/people/hisashi-umemori/)). My long-term goal is to understand the developmental logic of subtype-specific dopamine circuit function and determine how its disruption drives susceptibility to neuropsychiatric disorders.
 
 ### Projects
-* Pard3b-expressing midbrain dopamine neurons project to aversive hot spots and display aversive responses. (Poster presented at the [2026 CNCM Conference](https://cncm.medschool.uci.edu/2026-cncm-conference/) — *Poster Award Winner*)
-* Molecular mechanisms underlying subtype-specific dopaminergic circuit assembly in the developing brain. (Poster presented at the [2025 DDSSCC Conference](https://conferience.com/eventPage/ddsscc25))
+* Pard3b-expressing midbrain dopamine neurons project to aversive hot spots and display aversive responses.
+* Molecular mechanisms underlying subtype-specific dopaminergic circuit assembly in the developing brain.
 * Defining the vulnerability of mesocortical dopamine neurons in parkinsonian cognitive decline. ([Mechanisms of Aging & Dementia T32 fellowship](https://www.nuin.northwestern.edu/why-nuin/nih-training-programs/aging-and-dementia.html))
 
 ### Contact
