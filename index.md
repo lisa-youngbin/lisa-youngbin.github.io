@@ -12,8 +12,8 @@ Department of Neurology | Feinberg School of Medicine | Northwestern University
 </div>
 
 ---
-
-### How are subtype-specific dopaminergic circuits precisely formed?
+<hr style="margin-bottom: 2.5rem; border: 0; border-top: 1px solid #eee;">
+How are subtype-specific dopaminergic circuits precisely formed?
   
 As a PhD candidate in Neuroscience at Northwestern University (advised by Dr. Rajeshwar Awatramani), I study the molecular mechanisms underlying subtype-specific dopaminergic circuit assembly in the developing brain, with a focus on dopamine neuron heterogeneity across reward vs aversive circuits. Our lab employs single-nuclear transcriptomics and intersectional genetic approaches to study dopamine neuron diversity. 
 
