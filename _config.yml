@@ -1,4 +1,8 @@
 theme: minima
+url: "https://lisa-youngbin.github.io"
+description: Personal academic website of Lisa Kim, PhD Candidate in Neuroscience at Northwestern University studying dopamine.
+author:
+  name: "Lisa Kim"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
