@@ -1,13 +1,21 @@
+<div style="text-align: center;">
 
-<img src="/Profile.png" style="width: 200px; border-radius: 50%;">
+<img src="/Profile.png" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; display: block; margin: 0 auto 1rem auto;">
+
 # Lisa Kim
 **Neuroscience PhD Candidate, Awatramani Lab**  
 Department of Neurology | Feinberg School of Medicine | Northwestern University  
 
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=zwuNhPsAAAAJ&hl=en)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-6749-198X)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lisa.kim@northwestern.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lisa-kim-35507085)
+<div style="margin-top: 1rem; margin-bottom: 1.5rem; display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
+
+[![Google Scholar](https://img.shields.io/badge/-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=zwuNhPsAAAAJ&hl=en)
+[![ORCID](https://img.shields.io/badge/-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-6749-198X)
+[![Email](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lisa.kim@northwestern.edu)
+[![LinkedIn](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lisa-kim-35507085)
+
+</div>
+
+</div>
 
 ---
 
