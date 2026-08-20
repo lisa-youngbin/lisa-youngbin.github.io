@@ -6,15 +6,6 @@
 **Neuroscience PhD Candidate, Awatramani Lab**  
 Department of Neurology | Feinberg School of Medicine | Northwestern University  
 
-<div style="margin-top: 1rem; margin-bottom: 1.5rem; display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
-
-[![Google Scholar](https://img.shields.io/badge/-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=zwuNhPsAAAAJ&hl=en)
-[![ORCID](https://img.shields.io/badge/-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-6749-198X)
-[![Email](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lisa.kim@northwestern.edu)
-[![LinkedIn](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lisa-kim-35507085)
-
-</div>
-
 </div>
 
 ---
@@ -29,3 +20,6 @@ My path in molecular and cellular neuroscience includes prior work investigating
 * Pard3b-expressing midbrain dopamine neurons project to aversive hot spots and display aversive responses.
 * Defining the vulnerability of mesocortical dopamine neurons in parkinsonian cognitive decline. (Mechanisms of Aging & Dementia T32 fellowship)
 * Molecular mechanisms underlying subtype-specific dopaminergic circuit assembly in the developing brain.
+
+### Contact
+[Google Scholar](https://scholar.google.com/citations?user=zwuNhPsAAAAJ&hl=en) • [ORCID](https://orcid.org/0009-0008-6749-198X) • [Email](mailto:lisa.kim@northwestern.edu) • [LinkedIn](https://linkedin.com/in/lisa-kim-35507085) 
