@@ -20,8 +20,8 @@ How are subtype-specific dopaminergic circuits precisely formed?
 As a PhD candidate in Neuroscience at Northwestern University (advised by Dr. Rajeshwar Awatramani), I study the molecular mechanisms underlying subtype-specific dopaminergic circuit assembly in the developing brain, with a focus on dopamine neuron heterogeneity across reward vs aversive circuits. Our lab employs single-nuclear transcriptomics and intersectional genetic approaches to study dopamine neuron diversity. 
 </div>
 
-<div style="text-align: justify;">
 
+<div style="text-align: justify;">
 My path in molecular and cellular neuroscience includes prior work investigating tau-induced synaptic impairments at Columbia University as an undergraduate researcher (with Dr. Ottavio Arancio), and dopaminergic synapse formation at Boston Children's Hospital / Harvard Medical School as a research assistant (with Dr. Hisashi Umemori). My long-term goal is to bridge developmental neurobiology and circuit-level vulnerability to understand how developmental mechanisms shape lifelong function and susceptibility to neuropsychiatric disorders.
 </div>
 
