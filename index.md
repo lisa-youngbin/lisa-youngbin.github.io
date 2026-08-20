@@ -2,9 +2,11 @@
 <img src="/Profile.png" style="width: 200px; border-radius: 50%;">
 
 <div style="text-align: center;">
+
 # Lisa Kim
 **Neuroscience PhD Candidate, Awatramani Lab**  
 Department of Neurology | Feinberg School of Medicine | Northwestern University  
+
 </div>
 ---
 
