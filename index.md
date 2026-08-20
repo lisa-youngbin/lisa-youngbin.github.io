@@ -1,8 +1,8 @@
 
 <img src="/Profile.jpg" style="border-radius: 50%;">
 
-**Neuroscience PhD Candidate**  
-Awatramani Lab | Department of Neurology, Feinberg School of Medicine | Northwestern University  
+**Neuroscience PhD Candidate, Awatramani Lab**  
+Department of Neurology | Feinberg School of Medicine | Northwestern University  
 
 ---
 How are subtype-specific dopaminergic circuits precisely formed?
