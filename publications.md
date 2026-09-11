@@ -12,8 +12,7 @@ permalink: /publications/
   <li style="margin-bottom: 1.5rem;">
     <strong>A human developmental and adult brain atlas benchmarks dopaminergic stem cell models and cell therapy candidates.</strong><br>
     Vittoria D. Bocchi, Ken To, Leslie Weber, Paul Zumbo, <strong>Lisa Kim</strong>, Iwasaki Yuko Shida, Donghe Yang, Petter Storm, Alessandro Fiorenzano, Edoardo Sozzi, James Hackland, Chuan Xu, Tae Wan Kim, Fani Memi, Nicola J. Drummond, Nadine Bestard-Cuche, Andrea Corsinotti, Omer Ali Bayraktar, Niranjan Sawarkar, Regine S. Tipon, Kavitha Krishna Sudhakar, Aaron Zhong, So Yeon Koo, Jinghua Piao, Xiaoling He, David Horsfall, Daniela Basurto-Lozada, Ting Zhou, Viviane Tabar, Joseph E. Powell, Roger A. Barker, Barbara Treutlein, Gist Croft, Asuka Morizane, Tilo Kunath, Malin Parmar, Sandra Blaess, Rajeshwar Awatramani, Doron Betel, Sarah A. Teichmann, Lorenz Studer.<br>
-    <em>bioRxiv</em> (2026).<br>
-    <a href="https://www.biorxiv.org/content/10.64898/2026.06.19.733041v1.abstract" target="_blank" style="font-size: 0.85em; text-decoration: none; display: inline-block; margin-top: 4px; color: #2b6cb0;">[bioRxiv]</a>
+    <a href="https://www.biorxiv.org/content/10.64898/2026.06.19.733041v1.abstract" target="_blank" style="text-decoration: none; display: inline-block; margin-top: 4px; color: #2b6cb0;">[bioRxiv, 2026]</a>
   </li>
 
   <!-- Publication 2 -->
