@@ -26,7 +26,7 @@ permalink: /publications/
 
   <!-- Publication 3 -->
   <li style="margin-bottom: 1.5rem;">
-    <strong>Target-specific signals generate distinct subtypes of dopaminergic synapses.</strong><br>
+    <strong>The projection-specific signals that establish functionally segregated dopaminergic synapses. </strong><br>
     Akiko Terauchi, Patricia Yee, Erin M. Johnson-Venkatesh, Mariel P. Seiglie, <strong>Lisa Kim</strong>, Julia C. Pitino, Eli Kritzer, Qiyu Zhang, Jie Zhou, Yulong Li, David D. Ginty, Wei-Chung A. Lee, Hisashi Umemori.<br>
     <em>Cell</em> 186 (18), 3844-3858 (2023).<br>
     <a href="https://www.cell.com/cell/fulltext/S0092-8674(23)00801-2" target="_blank" style="font-size: 0.85em; text-decoration: none; display: inline-block; margin-top: 4px; color: #2b6cb0;">[Cell]</a>
