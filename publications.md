@@ -14,14 +14,12 @@ permalink: /publications/
     <a href="https://www.biorxiv.org/content/10.64898/2026.06.19.733041v1.abstract" target="_blank" style="text-decoration: none; display: inline-block; margin-top: 4px; color: #2b6cb0;">[<em>bioRxiv</em>, 2026]</a>
   </li>
 
-  <!-- Publication 2 -->
   <li style="margin-bottom: 1.5rem;">
     <strong>Fresh Frozen RNAScope Protocol.</strong><br>
     <strong>Lisa Kim</strong>.<br>
     <a href="https://www.protocols.io/view/fresh-frozen-rnascope-protocol-hfnab3maf.pdf" target="_blank" style="text-decoration: none; display: inline-block; margin-top: 4px; color: #2b6cb0;">[<em>protocols.io</em>, 2025]</a>
   </li>
 
-  <!-- Publication 3 -->
   <li style="margin-bottom: 1.5rem;">
     <strong>The projection-specific signals that establish functionally segregated dopaminergic synapses. </strong><br>
     Akiko Terauchi, Patricia Yee, Erin M. Johnson-Venkatesh, Mariel P. Seiglie, <strong>Lisa Kim</strong>, Julia C. Pitino, Eli Kritzer, Qiyu Zhang, Jie Zhou, Yulong Li, David D. Ginty, Wei-Chung A. Lee, Hisashi Umemori.<br>
