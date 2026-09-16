@@ -17,7 +17,7 @@ permalink: /publications/
   <li style="margin-bottom: 1.5rem;">
     <strong>Fresh Frozen RNAScope Protocol.</strong><br>
     <strong>Lisa Kim</strong>.<br>
-    <a href="https://www.protocols.io/view/fresh-frozen-rnascope-protocol-hfnab3maf.pdf" >[<em>protocols.io</em>, 2025]</a>
+    <a href="https://www.protocols.io/view/fresh-frozen-rnascope-protocol-hfnab3maf.pdf">[<em>protocols.io</em>, 2025]</a>
   </li>
 
   <li style="margin-bottom: 1.5rem;">
