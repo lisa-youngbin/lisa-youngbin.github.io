@@ -7,8 +7,7 @@ permalink: /publications/
 <div style="text-align: justify;">
 
 <ol style="padding-left: 1.2rem; line-height: 1.6;">
-
-  <!-- Publication 1 -->
+  
   <li style="margin-bottom: 1.5rem;">
     <strong>A human developmental and adult brain atlas benchmarks dopaminergic stem cell models and cell therapy candidates.</strong><br>
     Vittoria D. Bocchi, Ken To, Leslie Weber, Paul Zumbo, <strong>Lisa Kim</strong>, Iwasaki Yuko Shida, Donghe Yang, Petter Storm, Alessandro Fiorenzano, Edoardo Sozzi, James Hackland, Chuan Xu, Tae Wan Kim, Fani Memi, Nicola J. Drummond, Nadine Bestard-Cuche, Andrea Corsinotti, Omer Ali Bayraktar, Niranjan Sawarkar, Regine S. Tipon, Kavitha Krishna Sudhakar, Aaron Zhong, So Yeon Koo, Jinghua Piao, Xiaoling He, David Horsfall, Daniela Basurto-Lozada, Ting Zhou, Viviane Tabar, Joseph E. Powell, Roger A. Barker, Barbara Treutlein, Gist Croft, Asuka Morizane, Tilo Kunath, Malin Parmar, Sandra Blaess, Rajeshwar Awatramani, Doron Betel, Sarah A. Teichmann, Lorenz Studer.<br>
