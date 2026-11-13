@@ -17,6 +17,13 @@ permalink: /publications/
 
   <!-- Publication -->
   <li style="margin-bottom: 1.5rem;">
+    <strong>Coordinated spatial organization of basal ganglia structures revealed by dopamine subtype projectome mapping.</strong><br>
+    Oscar Andrés Moreno-Ramos, ivya D. A. Raj, Andrew D. Vigotsky, Elan Schonfeld, Elizabeth Phelan, Anish Singh, Joshua Caleb Jenkins, <strong>Lisa Kim</strong>, Zachary Gaertner, Cyril Bolduc, Cameron Oram, Milagros Pereira Luppi, Maryana Sami Nissan, Tuncer Onay, Styliani Markoulaki, Talia N. Lerner, D. James Surmeier, A. Vania Apkarian, Jean-Francois Poulin, Daniel Dombeck, Rajeshwar Awatramani.<br>
+    <a href="https://www.biorxiv.org/content/10.64898/2026.10.21.760539v1" target="_blank" style="text-decoration: none; display: inline-block; margin-top: 4px; color: #2b6cb0;">[<em>bioRxiv</em>, 2026]</a>
+  </li>
+  
+  <!-- Publication -->
+  <li style="margin-bottom: 1.5rem;">
     <strong>Fresh Frozen RNAScope Protocol.</strong><br>
     <strong>Lisa Kim</strong>.<br>
     <a href="https://www.protocols.io/view/fresh-frozen-rnascope-protocol-hfnab3maf.pdf" target="_blank" style="text-decoration: none; display: inline-block; margin-top: 4px; color: #2b6cb0;">[<em>protocols.io</em>, 2025]</a>
